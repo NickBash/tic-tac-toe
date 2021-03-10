@@ -1,6 +1,6 @@
 # Tic-tac-toe with movement along the moves
 
-
+![](https://github.com/NickBash/tic-tac-toe/blob/main/assets/tic.PNG)
 
 ## Getting Started with Create React App
 
